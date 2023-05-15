@@ -1,1 +1,4 @@
-# practicum-yandex
+# Восстановление золота из руды
+Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками
+# Recovery of gold from ore
+Prepare a prototype machine learning model for "Numbers". The company develops solutions for efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore. Data with mining and cleaning parameters are at your disposal. The model will help to optimize production so as not to run a plant with loss-making characteristics.
