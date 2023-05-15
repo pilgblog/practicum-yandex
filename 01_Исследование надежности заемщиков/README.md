@@ -1,1 +1,1 @@
-# practicum-yandex
+# ислледование
