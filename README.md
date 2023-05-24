@@ -21,3 +21,5 @@ This repository contains my projects from the "Data Science Specialist" training
 ## Модуль 04 / Module 04
 - Компьютерное зрение / Computer vision
 - Выпускной проект / Final project
+<h3>Модуль 01 / Module 01</h3><ul>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'>Предобработка данных / Base python</a></li>
