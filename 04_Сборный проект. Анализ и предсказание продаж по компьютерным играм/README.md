@@ -1,4 +1,13 @@
 # Анализ продаж компьютерных игр
-Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
-# Analysis of sales of computer games
-You work in the online store " Streamchik ", which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
+## Цель проекта:
+Необходимо выявить закономерности, определяющие успешность компьютерной игры. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
+## Задачи проекта:
+Провести предобработку данных, их анализ, сделать исследовательский анализ, Составить портрет пользователя каждого региона, проверить гипотезы.
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/whitead/skunk/main/tests/skunk.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+</div>
