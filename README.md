@@ -24,4 +24,4 @@ This repository contains my projects from the "Data Science Specialist" training
 <h3>Модуль 01 / Module 01</h3><ul>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'>Предобработка данных / Data Processing</a></li>
  <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/02_Исследование%20объявлений%20о%20продаже%20квартир'>Исследовательский анализ данных / Exploratory data analysis</a></li>
- <li><a href=''>Статистический анализ данных / Statistical analysis of data Сборный проект / Common project</a></li>
+ <li><a href='https://github.com/pilgblog/practicum-yandex/blob/main/03_Определение%20выгодного%20тарифа%20для%20телеком%20компании/Определение%20выгодного%20тарифа%20для%20телеком%20компании.ipynb'>Статистический анализ данных / Statistical analysis of data Сборный проект / Common project</a></li>
