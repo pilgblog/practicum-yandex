@@ -1,4 +1,4 @@
-# Защита персональнызх данных клиентов
+# Защита персональных данных клиентов
 ## Цель проекта:
 Разработь модель анонимизации персональных данных
 ## Задачи проекта:
@@ -8,4 +8,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
   <img src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
   <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
 </div>
