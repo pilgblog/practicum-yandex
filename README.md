@@ -1,7 +1,7 @@
 # Practicum - Yandex
 В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
-<h3>Модуль 01 / Module 01</h3><ul>
+<ul><h3>Модуль 01 / Module 01</h3>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'>Предобработка данных / Data Processing</a></li>
  <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/02_Исследование%20объявлений%20о%20продаже%20квартир'>Исследовательский анализ данных / Exploratory data analysis</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/03_Определение%20выгодного%20тарифа%20для%20телеком%20компании'>Статистический анализ данных / Statistical analysis of data</a></li>
