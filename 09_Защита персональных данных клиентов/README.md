@@ -1,4 +1,10 @@
-# Защита персональных данных клиентов
-Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.
-# Protection of personal data of clients
-You need to protect your customer data from "We're not afraid of the flood" insurance company. Develop a method to convert data so that it is difficult to recover personal information.
+# Защита персональнызх данных клиентов
+## Цель проекта:
+Разработь модель анонимизации персональных данных
+## Задачи проекта:
+Задача регрессии, линейная алгебра
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/whitead/skunk/main/tests/skunk.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+</div>
