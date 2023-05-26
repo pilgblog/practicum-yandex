@@ -34,5 +34,5 @@ This repository contains my projects from the "Data Science Specialist" training
 <h3>Модуль 03 / Module 03</h3><ul>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/09_Защита%20персональных%20данных%20клиентов'>Линейная алгебра / Linear algebra</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/10_Определение%20стоимости%20автомобилей'>Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)</a></li>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/07_Выбор%20локации%20для%20скважины'>Временные ряды / Time series</a></li>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/11_Прогнозирование%20заказов%20такси'>Временные ряды / Time series</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/08_Восстановление%20золота%20из%20руды'>Машинное обучение для текстов / Machine learning for texts</a></li>
