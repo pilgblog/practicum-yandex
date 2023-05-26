@@ -1,4 +1,13 @@
-# Восстановление золота из руды
-Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками
-# Recovery of gold from ore
-Prepare a prototype machine learning model for "Numbers". The company develops solutions for efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore. Data with mining and cleaning parameters are at your disposal. The model will help to optimize production so as not to run a plant with loss-making characteristics.
+# Определение выгодного тарифа для телеком компании
+## Цель проекта:
+На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа
+## Задачи проекта:
+Проведести предобработку данных, их анализ. Проверить гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/whitead/skunk/main/tests/skunk.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+</div>
