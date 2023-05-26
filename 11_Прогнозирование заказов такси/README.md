@@ -1,4 +1,11 @@
-# Прогнозирование заказов такси
-Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
-# Taxi‐demand forecasting
-"Cool Taxi" Company has collected historical data on taxi orders at airports. To attract more drivers during the peak load, you need to predict the number of taxi orders for the next hour. Build a model for such a prediction.
+# Прогнозирование закахзов такси
+## Цель проекта:
+Разработать систему предсказания объема заказа.
+## Задачи проекта:
+Задача регрессии, временные ряды, предсказать объем заказа.
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+</div>
