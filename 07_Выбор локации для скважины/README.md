@@ -1,4 +1,11 @@
-# Выбор локации для бурения скважин
-Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину. Вам предоставлены пробы нефти в трёх регионах: в каждом — 100 000 месторождений, где измерили качество нефти и объём её запасов. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль.
-# Choosing a location for drilling wells
-Suppose you work at GlavRosGosNeft production company. We need to decide where to drill the new well. You have been given samples of oil in three regions: in each region there are 100,000 oil fields where the quality of oil and the volume of its reserves were measured. Build a model of machine training that will help you determine the region where production will bring the most profit.
+# Выбор локации для скважины
+## Цель проекта:
+На основе данных геологи разведки выбрать район добычи нефти
+## Задачи проекта:
+Задача регрессии, необходимо разработать бизнес-модель, бутстреп
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/whitead/skunk/main/tests/skunk.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+</div>
