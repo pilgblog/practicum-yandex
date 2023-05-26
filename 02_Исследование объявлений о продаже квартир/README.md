@@ -4,8 +4,8 @@
 ## Задачи проекта:
 Провести предобработку данных, добавить новые данные, построить гистограммы, боксплоты, диаграммы рассеивания.
 ## Инструменты:
-Python
-Pandas
+
+
 Matplotlib
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
