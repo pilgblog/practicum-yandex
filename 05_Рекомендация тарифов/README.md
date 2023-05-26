@@ -1,4 +1,14 @@
-# Рекомендация тарифного плана
-Оператор мобильной связи «Мегалайн» выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».
-# Tariff plane recommendation
-Mobile operator "Megaline" found out: many customers use archive tariffs. They want to build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra".
+# Рекомендация тарифов
+## Цель проекта:
+На основе данных предложить клиенту тариф.
+## Задачи проекта:
+Задача классификации, подобрать гиперпараметры и выбрать модели машинного обучения
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/whitead/skunk/main/tests/skunk.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg" alt="React" width="50" height="60"/>&nbsp;
+</div>
