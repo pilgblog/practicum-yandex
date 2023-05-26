@@ -28,6 +28,6 @@ This repository contains my projects from the "Data Science Specialist" training
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/04_Сборный%20проект.%20Анализ%20и%20предсказание%20продаж%20по%20компьютерным%20играм'>Сборный проект / Common project</a></li>
 <h3>Модуль 02 / Module 02</h3><ul>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/05_Рекомендация%20тарифов'>Введение в машинное обучение / Introduction to machine learning</a></li>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/02_Исследование%20объявлений%20о%20продаже%20квартир'>Обучение с учителем / Supervised learning</a></li>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/06_Отток%20клиентов'>Обучение с учителем / Supervised learning</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/03_Определение%20выгодного%20тарифа%20для%20телеком%20компании'>Машинное обучение в бизнесе / Machine learning in business</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/04_Сборный%20проект.%20Анализ%20и%20предсказание%20продаж%20по%20компьютерным%20играм'>Сборный проект / Common project</a></li>
