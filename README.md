@@ -25,4 +25,4 @@ This repository contains my projects from the "Data Science Specialist" training
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'>Предобработка данных / Data Processing</a></li>
  <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/02_Исследование%20объявлений%20о%20продаже%20квартир'>Исследовательский анализ данных / Exploratory data analysis</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/03_Определение%20выгодного%20тарифа%20для%20телеком%20компании'>Статистический анализ данных / Statistical analysis of data</a></li>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'>Сборный проект / Common project</a></li>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/08_Восстановление%20золота%20из%20руды'>Сборный проект / Common project</a></li>
