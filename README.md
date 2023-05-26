@@ -32,7 +32,7 @@ This repository contains my projects from the "Data Science Specialist" training
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/07_Выбор%20локации%20для%20скважины'>Машинное обучение в бизнесе / Machine learning in business</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/08_Восстановление%20золота%20из%20руды'>Сборный проект / Common project</a></li>
 <h3>Модуль 03 / Module 03</h3><ul>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/05_Рекомендация%20тарифов'>Введение в машинное обучение / Introduction to machine learning</a></li>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/06_Отток%20клиентов'>Обучение с учителем / Supervised learning</a></li>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/07_Выбор%20локации%20для%20скважины'>Машинное обучение в бизнесе / Machine learning in business</a></li>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/08_Восстановление%20золота%20из%20руды'>Сборный проект / Common project</a></li>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/09_Защита%20персональных%20данных%20клиентов'>Линейная алгебра / Linear algebra</a></li>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/06_Отток%20клиентов'>Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)</a></li>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/07_Выбор%20локации%20для%20скважины'>Временные ряды / Time series</a></li>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/08_Восстановление%20золота%20из%20руды'>Машинное обучение для текстов / Machine learning for texts</a></li>
