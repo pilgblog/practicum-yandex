@@ -1,8 +1,10 @@
-# Определение возраста покупателей. Компьютерное зрение
-Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
-
-Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы; Контролировать добросовестность кассиров при продаже алкоголя.
-# Determining the age of buyers. Computer vision
-Network supermarket "Bread and salt" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:
-
-Analyze purchases and offer products that may interest customers of this age group; Monitor the integrity of cashiers when selling alcohol.
+# Определение возраста покупателей. Компьютерное зрение.
+## Цель проекта:
+Построить модель, которая по фотографии определит приблизительный возраст человека. В распоряжении набор фотографий людей с указанием возраста.
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
+</div>
