@@ -18,4 +18,29 @@
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/12_Определение%20токсичности%20ангоязычных%20комментариев'>Машинное обучение для текстов / Machine learning for texts</a></li>
 <h3>Модуль 04 / Module 04</h3>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/13_Определение%20возраста%20покупателей'>Компьютерное зрение / Computer vision</a></li>
-<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/15_Финальный%20проект%20-%20Определение%20температуры%20стали'>Выпускной проект / Final project</a></li></ul>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/15_Финальный%20проект%20-%20Определение%20температуры%20стали'>Выпускной проект / Final project</a></li>
+# Проекты:
+## Аналитика:
+</ul>
+<table>
+<caption>Аналитика</caption>
+  <tr>
+    <th>№ п/п</th>
+    <th>Название проекта</th>
+    <th>Источник проекта</th>
+    <th>Цель</th>
+    <th>Задачи проекта</th>
+    <th>Инструменты</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'</td><td>кг</td><td>15,20</td><td>69,00</td><td>1048,80</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Яндекс.практикум</td><td>кг</td><td>2,50</td><td>48,00</td><td>120,00</td>
+  </tr>
+  <tr>
+    <td colspan="5" style="text-align:right">ИТОГО:</td><td>1168,80</td>
+  </tr>
+</table>
