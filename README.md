@@ -19,13 +19,13 @@
 <h3>Модуль 04 / Module 04</h3>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/13_Определение%20возраста%20покупателей'>Компьютерное зрение / Computer vision</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/15_Финальный%20проект%20-%20Определение%20температуры%20стали'>Выпускной проект / Final project</a></li>
+ 
 # Проекты:
-## Аналитика:
+
 </ul>
 <table>
 <caption>Аналитика</caption>
   <tr>
-    <th>№ п/п</th>
     <th>Название проекта</th>
     <th>Источник проекта</th>
     <th>Цель</th>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td>a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'</td><td>кг</td><td>15,20</td><td>69,00</td><td>1048,80</td>
+    <td><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'></td><td>Яндекс.практикум</td><td>15,20</td><td>69,00</td><td>1048,80</td>
   </tr>
   <tr>
     <td>2.</td>
