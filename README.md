@@ -33,8 +33,8 @@
     <th>Инструменты</th>
   </tr>
   <tr>
-    <td><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'></li></td>
-    <td>Яндекс.практикум</td><td>Яндекс.практикум</td><td>15,20</td><td>69,00</td><td>1048,80</td>
+    <td><a href='https://github.com/pilgblog/practicum-yandex/tree/main/01_Исследование%20надежности%20заемщиков'></a></li></td>
+    <td>Яндекс.практикум</td><td> </td><td> </td><td> </td><td> </td>
   </tr>
   <tr>
     <td>2.</td>
