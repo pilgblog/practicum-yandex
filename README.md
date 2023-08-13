@@ -19,3 +19,5 @@
 <h3>Модуль 04 / Module 04</h3>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/13_Определение%20возраста%20покупателей'>Компьютерное зрение / Computer vision</a></li>
 <li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/15_Финальный%20проект%20-%20Определение%20температуры%20стали'>Выпускной проект / Final project</a></li>
+<h3>Мастерская</h3>
+<li><a href='https://github.com/pilgblog/practicum-yandex/tree/main/16_Прогнозирование%20стоимости%20б_у20%автомобилей'>Задача регрессии / Computer vision</a></li>
